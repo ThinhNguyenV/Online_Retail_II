@@ -52,8 +52,8 @@
 ## <h2>Getting Started</h2>
 <ol>
   <li>Clone this repository:
-    <pre><code>git clone https://github.com/Online_Retail_II/online-retail-analysis.git
-cd online-retail-analysis
+    <pre><code>git clone https://github.com/ThinhNguyenV/Online_Retail_II.git
+cd Online_Retail_II
     </code></pre>
   </li>
   <li>Install required packages:
