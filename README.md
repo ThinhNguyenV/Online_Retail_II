@@ -12,7 +12,7 @@
   <li><strong>Description</strong>: Name of the product.</li>
   <li><strong>Quantity</strong>: The quantity of each product per transaction.</li>
   <li><strong>InvoiceDate</strong>: Date and time of the transaction.</li>
-  <li><strong>UnitPrice</strong>: Price per unit of the product.</li>
+  <li><strong>Price</strong>: Price per unit of the product.</li>
   <li><strong>CustomerID</strong>: Unique ID of the customer.</li>
   <li><strong>Country</strong>: The country where the customer resides.</li>
 </ul>
