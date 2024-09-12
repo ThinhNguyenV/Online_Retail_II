@@ -52,7 +52,7 @@
 ## <h2>Getting Started</h2>
 <ol>
   <li>Clone this repository:
-    <pre><code>git clone https://github.com/yourusername/online-retail-analysis.git
+    <pre><code>git clone https://github.com/Online_Retail_II/online-retail-analysis.git
 cd online-retail-analysis
     </code></pre>
   </li>
